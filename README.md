@@ -1,2 +1,2 @@
 # QuantLim
-A tool set to quantify fluorescence in each nucleus from 2D images
+QuantLim is an imageJ toolset to count foci per nucleus for 2D multi-channels images.
